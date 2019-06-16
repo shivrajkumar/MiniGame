@@ -574,7 +574,7 @@
   dependencies:
     "@babel/helper-plugin-utils" "^7.0.0"
 
-"@babel/plugin-transform-runtime@^7.0.0":
+"@babel/plugin-transform-runtime@^7.0.0", "@babel/plugin-transform-runtime@^7.4.4":
   version "7.4.4"
   resolved "https://registry.yarnpkg.com/@babel/plugin-transform-runtime/-/plugin-transform-runtime-7.4.4.tgz#a50f5d16e9c3a4ac18a1a9f9803c107c380bce08"
   dependencies:
